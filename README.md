@@ -17,5 +17,5 @@
 <p>And thank you to Angela Yu, the instructor of the 100 days of code: Python bootcamp, for creating such a fun project!</p>
 </div>
 </ul>
-
 </body>
+</html>
