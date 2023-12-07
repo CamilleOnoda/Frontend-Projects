@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1 style="text-align:center">Welcome to TinDog's landing page!</h1>
-<h2 style="text-align:center">&#1281101;Tinder for dogs&#1281101;</h2>
+<h2 style="text-align:center">&#x1F495;Tinder for dogs&#x1F495;</h2>
 <p>Help your dog to meet new and interesting dogs nearby!<br>
 You have a dog? You want your dog to have friends? Let's use TinDog!</p>
 <p>This landing page is part of the Udemy course: <a href="https://www.udemy.com/course/100-days-of-code/">100 days of code: Python bootcamp</a>.</p>
