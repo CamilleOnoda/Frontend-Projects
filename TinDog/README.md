@@ -24,7 +24,9 @@ You have a dog? You want your dog to have friends? Let's use TinDog!</p>
 <img src="images/feature screenshot.png" width="400">
 </div>
 <li>Testimonial section: Jumbotron > "Full-width jumbotron"</li>
+<p>For the images below, I added a container div and a row div, then added the 4 images.</p>
 <div style="margin-top: 10px">
+<img src="tindog-code-snippet.png" width="400">
 <img src="images/testim screenshot.png" width="400">
 </div>
 <li>Pricing section: Pricing > "Copy only the divs for the title "Pricing" and the price cards"</li>
