@@ -113,7 +113,7 @@
 
 @media (max-width: 1000px) {
   #iphone-img {
-    width: 333px;
+    min-width: 300px;
   }
 
   #pricing,.row {
