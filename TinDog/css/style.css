@@ -1,0 +1,112 @@
+.gradient-background,#footer {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+/*Title section*/
+#iphone-img {
+  width: 337px;
+  height: 594px;
+}
+
+#download-left {
+  color: black;
+  background-color: white;
+  border: none;
+  margin-right: 8px;
+}
+
+#download-left:hover {
+  background-color: lightgrey;
+}
+
+#download-right {
+  color: white;
+  border-color: white;
+}
+
+#download-right:hover {
+  background-color: white;
+  color: black;
+}
+
+#download-right, #download-left {
+  padding: 10px;
+}
+
+/*Features section*/
+#features {
+  margin-top: 5px;
+}
+
+/*Testimonial*/
+#dog-image {
+  border-radius: 50%;
+  height: 100PX;
+  margin-top: 48px;
+}
+
+/*Pricing*/
+#btn-sign-up {
+  border: 1px solid black;
+  color: black;
+}
+
+#btn-sign-up:hover {
+  background-color: black;
+  color: white;
+}
+
+#btn-started-contact {
+  border: none;
+  background-color: black;
+  color: white;
+}
+
+#btn-started-contact:hover {
+  background-color: grey;
+}
+
+#mastiff {
+  background-color: black;
+  color: white;
+}
+
+#mastiff-card {
+  border: 1px solid black;
+}
+
+#pricing,.row {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+/*Footer*/
+.container-footer {
+  margin-left: 50px;
+  margin-right: 50px;
+}
